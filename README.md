@@ -8,6 +8,8 @@ If the company is not active, return a message to the user refusing a credit acc
 
 ## Notes
 
-Development practices should adhere to best practice, including usage of version control, hosted with github, and at least one automated test.
+The test should take no longer than 4 hours. We are not necessarily expecting a completed app, rather are looking at your approach and methodology.
+
+Development practices should adhere to best practice, including usage of version control (commit early and often), hosted with github, and at least one automated test.
 
 The git repository should be shared with user @pmsint on github, and should include a readme file containing build and run instructions and a brief overview of any assumptions you made when developing your app or the risk score.
